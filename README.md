@@ -17,3 +17,6 @@ process and the other for sending the modified message from the secondto the fir
 Windows pipes.
 
 The codes and outputs of above questions are attached in the files
+References for the solutions are taken from :
+
+
