@@ -16,8 +16,10 @@ For example, if the first process sends the message Hi There,the second process 
 This will require using two pipes, one for sending the original message from the first to the second process and the other for sending the modified message from the second
 to the first process. You can write this program using either UNIX or Windows pipes.
 
-The codes and outputs of above questions are attached in the files
+The codes of the above questions 1 and 2 respectively are attached in the files
 [assignment codes.zip](https://github.com/ChappaAbhiram/cs-assignment/files/7611333/assignment.codes.zip)
+
+The output pngs of the above questions 1 and 2 respectively are below :
 ![output q1](https://user-images.githubusercontent.com/94036639/143671337-7ae38b3e-c0f0-4011-b536-408a370290d2.png)
 ![output q2](https://user-images.githubusercontent.com/94036639/143671338-f9d48f82-be82-4468-bcc0-3c3fceaaa407.png)
 
